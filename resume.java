@@ -6,7 +6,7 @@ class resume{
 		System.out.println("--------------------------------------INFORMATION---------------------------------");
 		System.out.println("Name-Ashish Mehta");
 		System.out.println("Contact - 8690585738");
-		System.out.println("E-mail = Ashishmehtataj@gamil.com");
+		System.out.println("E-mail = Ashishmehtataj@gmail.com");
 		System.out.println("__________________________________________________________________________________");
 		System.out.println("__________________________________________________________________________________");
 
